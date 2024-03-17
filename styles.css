@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+}
+
+.col {
+    background-color: red;
+    flex-grow: 1;
+    border: 1px solid black;
+}
+
+.flex-container {
+   display: flex;
+   width: 100%;
+}
+
+#main-container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 90%;
+}
+
