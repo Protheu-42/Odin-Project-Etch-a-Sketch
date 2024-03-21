@@ -3,7 +3,6 @@ body {
 }
 
 .col {
-    background-color: red;
     flex-grow: 1;
     border: 1px solid black;
 }
@@ -19,3 +18,8 @@ body {
     height: 90%;
 }
 
+#buttons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
