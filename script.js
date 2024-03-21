@@ -49,26 +49,3 @@ changeGrid.addEventListener('click', () => {
         alert('bug');
     }
 })
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// cloning shenanigans
-// let clone = col.cloneNode();
-// flexContainer.appendChild(clone);
-// clone = col.cloneNode();
-// flexContainer.appendChild(clone);
-// clone = col.cloneNode();
-// flexContainer.appendChild(clone);
-// clone = col.cloneNode();
-// flexContainer.appendChild(clone);
